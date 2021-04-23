@@ -1,4 +1,4 @@
-# Exercício 1 - Lancheria
+# Exercício 1 - Lanchonete
 
 Faça um algoritmo em linguagem C para calcular quanto cada cliente gastou em pedidos realizados em uma lanchonete. A lanchonete vende os seguintes produtos: 
 
