@@ -2,7 +2,7 @@
 
 Faça um algoritmo em linguagem C para calcular quanto cada cliente gastou em pedidos realizados em uma lanchonete. A lanchonete vende os seguintes produtos: 
 
-![Lanches](lanches.png)
+![Lanches](listaLanches.png)
 
 Ao iniciar o programa, deve-se aparecer na tela um menu com todos os itens vendidos e seus respectivos preços. O usuário deve escolher digitando de 1-7 qual item quer comprar.
 
