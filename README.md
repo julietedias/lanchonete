@@ -1,8 +1,8 @@
 # Exercício 1 - Lancheria
 
-Faça um algoritmo em linguagem C para calcular quanto cada cliente gastou em pedidos realizados em uma lancheria. A lancheria vende os seguintes produtos: 
+Faça um algoritmo em linguagem C para calcular quanto cada cliente gastou em pedidos realizados em uma lanchonete. A lanchonete vende os seguintes produtos: 
 
-![tabelaLanches](C:\Users\Usuario\Documents\_Análise e Desenvolvimento de Sistemas\ADS\2020\Módulo B\Fase I\Lógica de Programação e Algoritmos\Atividade Prática\exercicios\lancheria\tabelaLanches.PNG)
+![Lanches](lanches.png)
 
 Ao iniciar o programa, deve-se aparecer na tela um menu com todos os itens vendidos e seus respectivos preços. O usuário deve escolher digitando de 1-7 qual item quer comprar.
 
